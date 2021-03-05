@@ -7,6 +7,9 @@
     "build": "next build && next export",
     "start": "next start"
   },
+  "engines": {
+    "node": "^14.15.5"
+  },
   "dependencies": {
     "next": "10.0.8",
     "react": "17.0.1",
